@@ -1,0 +1,31 @@
+body{
+    background:url("https://s-media-cache-ak0.pinimg.com/originals/64/d5/17/64d51720139c813946ca597033215585.gif");
+    background-size:100% 100%;
+    height:100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+div#Silver {
+    border-radius: 100%;
+    height: 150px;
+    width: 150px;
+    border: 3px solid gold;
+    background: silver;
+}
+
+div#Gold {
+    border-radius: 100%;
+    height: 150px;
+    width: 150px;
+    border: 5px solid silver;
+    background: gold;
+}
+
+div#Crystal {
+ border-radius: 100%;
+    height: 150px;
+    width: 150px;
+    border: 10px solid silver;
+    background: #33ffff;
+}
